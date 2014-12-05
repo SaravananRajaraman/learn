@@ -32,24 +32,35 @@ The phonegap is an lib that convert the web app(html,css,javascript) into native
                 C:\android\apache-ant-1.9.2\bin;
                 C:\android\phonegap-2.9.0\lib\android\bin
 3. Phonegap:
+
 		1. Install the phonegap by use following cmd  
-		`npm install -g phonegap` in unix/linux use `sudo`. To test this simple type `phonegap -v`		
+		`npm install -g phonegap` in unix/linux use `sudo`. To test this simple type `phonegap -v`	
+
 		2. Creating phonegap project via CLI for eg.
 		`phonegap create demo com.mugilsoft.demo Demo`		
+
 		3. To build phonegap, Move to phonegap app folder and run the cmd
 		`phonegap build android` here `android` is a platform name. If you want to create `iso`  use `phonegap build ios`		
+
 		4. To Run the build app on *emulator* or *mobile phone* use `phonegap install android` for android or you can manually install the apk file the located in *`phonegap_app_folder/platforms/android/ant-build`*  as `appName-debug.apk` if its an iso make sure you must install ios-deploy and ios-sim if not use cmd `npm install -g ios-deploy` / `npm install -g ios-sim` and run `phonegap install ios`
+		
 		5. To use the phonegap plugin use `phonegap plugin add plugin_name` to check the plugin install use `phonegap plugin list` for remove use `phonegap plugin remove plugin_name` 
 **Note:** Here `plugin_name` is plugin identifier or plugin url
+
 		6. If you want to test your application via phonegap developer app use `phonegap serve` it will return an ip address use the ip on phonegap developer app to test.
 	
 	
 4. Cordova:
+
 		1. Install the cordova by use following cmd  
 		`npm install -g cordova` in unix/linux use `sudo`. To test this simple type `cordova -v`
+
 		2. Creating cordova project via CLI for eg.
 		`cordova create demo com.mugilsoft.demo Demo`
+
 		3. To build cordova, Move to cordova app folder and add the platform by use `cordova platform add android`  for android and  `cordova build`
+		
 		4. To run the build app use `cordova run android` for android app
+		
 	 	5. To use the phonegap plugin use `cordova plugin add plugin_name`
 		
