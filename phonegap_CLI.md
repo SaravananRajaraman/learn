@@ -1,7 +1,7 @@
 
 
 
-#Phonegap Cmd line
+#Phonegap CLI
 
 The phonegap is an lib that convert the web app(html,css,javascript) into native application the 
 
