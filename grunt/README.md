@@ -10,14 +10,15 @@
  2. Install grunt by follow the steps. 
 	 1. Move to project folder via CMD.  
 	 2. Then type `npm install grunt - -save -dev`.
- 3. Make the package.json ([Ref](https://www.npmjs.org/doc/files/package.json.html)) or simple use `npm init` or create the file package.json file and fill it
-    `{
-      "name": "name of your application",
-      "version": "version code",
-      "devDependencies": {
-        "grunt": "^0.4.5"
-      }
-    }`
+ 3. Make the package.json ([Ref](https://www.npmjs.org/doc/files/package.json.html)) or simple use `npm init` or create the file package.json file and make suer your package look like
+ 
+        {
+	      	"name": "name of your application",
+	      	"version": "version code",
+	      	"devDependencies": {
+			"grunt": "^0.4.5"
+	      	}
+    	}
 
  
  4. Then make Gruntfile.js for operation you need or download the sample @ [Gruntfile.js](https://www.dropbox.com/s/edqtb6qvun78smt/Gruntfile.js?dl=0).   
