@@ -8,7 +8,7 @@
 
  1. Install [Node.js](http://nodejs.org/)  
  2. Install grunt by follow the steps. 
-	 1. Move to project folder via CMD.  
+	 1. Point project folder in CMD and.  
 	 2. Then type `npm install grunt --save -dev`.
  3. Make the package.json ([Ref](https://www.npmjs.org/doc/files/package.json.html)) or simple use `npm init` or create the file package.json file and make suer your package look like
  
