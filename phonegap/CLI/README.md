@@ -3,7 +3,7 @@
 
 #Phonegap CLI
 
-The phonegap is an lib that convert the web app(html,css,javascript) into native application the 
+The phonegap is an lib that convert the web app(html,css,javascript) into native application.
 
 
 1. For Android "Android SDK Tools Only" [link](http://developer.android.com/sdk/index.html)
