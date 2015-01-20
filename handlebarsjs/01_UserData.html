@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Data</title>
+    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="js/handlebars-v2.0.0.js"></script>
+</head>
+<body>
+<script id="userData" type="text/x-handlebars-template">
+    User Name : {{name}} <br>
+    Age : {{ age}} <br>
+    Place : {{ place }}
+</script>
+<script>
+    var source= $("#userData").html();
+    var template=Handlebars.compile(source);
+    var userInfo = {
+                name:"Alex",
+                age:45,
+                place:"California"
+            };
+    $("body").append( template(userInfo) );
+
+</script>
+</body>
+</html>

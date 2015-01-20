@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>list</title>
+    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="js/handlebars-v2.0.0.js"></script>
+</head>
+<body>
+<script id="newList" type="text/x-handlebars-template">
+    <ul>
+    {{#each people}}
+    <li>{{firstName}} {{lastName}}</li>
+    {{/each}}
+    </ul>
+</script>
+
+<script id="newTable" type="text/x-handlebars-template">
+    <table>
+        <thead>
+            <th> First Name </th>
+            <th> Last Name</th>
+        </thead>
+        {{#each people}}
+        <tr>
+            <td>{{firstName}}</td>
+            <td>{{lastName}}</td>
+        </tr>
+        {{/each}}
+    </table>
+</script>
+
+<script>
+var context=
+    {
+        people: [
+            {firstName: "Yehuda", lastName: "Katz"},
+            {firstName: "Carl", lastName: "Lerche"},
+            {firstName: "Alan", lastName: "Johnson"},
+            {firstName: "Test", lastName: "Johnson"}
+        ]
+    };
+
+    $('body').append(Handlebars.compile($("#newList").html())(context));
+    $('body').append(Handlebars.compile($("#newTable").html())(context));
+</script>
+</body>
+</html>

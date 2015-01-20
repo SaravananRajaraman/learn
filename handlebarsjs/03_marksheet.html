@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>if</title>
+    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="js/handlebars-v2.0.0.js"></script>
+    <style>
+        .pass {
+            color: #00f;
+        }
+        .fail{
+            color:#f00;
+        }
+    </style>
+</head>
+<body>
+
+<script id="marksheet" type="text/x-handlebars-template">
+    <table>
+        <thead>
+            {{#each headers}}
+                <td>{{this}}</td>
+            {{/each}}
+            <td>Result</td>
+        </thead>
+        <tbody>
+            {{#each students}}
+                <tr>
+                    <td>{{name}}</td>
+                    {{#each marks}}
+                        {{#if this '>=' 50 }}
+                            <td class = "pass">{{this}}</td>
+                        {{else}}
+                            <td class = "fail">{{this}}</td>
+                        {{/if}}
+                    {{/each}}
+                    <td>
+                        {{result marks}}
+                    </td>
+                </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</script>
+
+<script>
+    var context = {headers : ["Name", "Math", "Physics", "English"],
+            students: [
+                {
+                    name:"John",
+                    marks:[60,40,75]
+                },
+                {
+                    name:"Joe",
+                    marks:[70,80,65]
+                },
+                {
+                    name:"Amy",
+                    marks:[30,20,95]
+                },
+                {
+                    name:"Peter",
+                    marks:[90,60,25]
+                }
+
+            ]
+    };
+
+    Handlebars.registerHelper("result", function(marks){
+        if(marks[0] >= 50 && marks[1] >= 50 && marks[2]>= 50){
+            return "Pass";
+        }else{
+            return "Fail"
+        }
+
+    });
+    Handlebars.registerHelper('if', function(v1, op, v2, options) {
+        console.log("if = " + (v1 + op + v2));
+        var bool = eval(v1 + op + v2);
+
+        if(bool) {
+            return options.fn(this);
+        }
+        return options.inverse(this);
+    });
+    var source= $("#marksheet").html();
+    var template=Handlebars.compile(source);
+    $('body').append(template(context));
+</script>
+</body>
+</html>
