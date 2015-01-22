@@ -1,4 +1,4 @@
-==Jquery QuickClear Plugin
+##Jquery QuickClear Plugin
 
 QuickClear is a simple jQuery plugin to help you quickly clear the values of an input field or text area.
 
