@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+	 <script src="http://ajax.cdnjs.com/ajax/libs/underscore.js/1.1.4/underscore-min.js"></script>
+	 <script src="http://ajax.cdnjs.com/ajax/libs/backbone.js/0.3.3/backbone-min.js"></script>
+	 <script src="jquery.tmple.min.js"></script>
+	 <script src="application.js"></script>
+ 	 <link rel="stylesheet" href="main.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  </head>
+
+  <body>
+   
+	<!-- Tour List View -->
+		    <div id="tourListView" style="display:none;">
+				<ul id="tourList">
+				 <script id="tourListTmpl" type="text/x-jquery-tmpl">
+			         	<li class="viewDetailBtn" id="#tourDetail/${attributes.pid}">	
+			         		<div class="item-name">${attributes.name}</div>	
+							<div class="item-price">${attributes.price}</div>
+							<a href="#tourDetail/${attributes.pid}">Learn More</a>
+						</li>
+			        </script>
+				</ul>
+			</div>
+
+			
+	<!-- Tour Detail -->
+			<div id="tourDetailView" style="display:none">
+				 <script id="tourDetailTmpl" type="text/x-jquery-tmpl">
+					<div class="item-name">${attributes.name}</div>	
+					<div class="item-price">${attributes.price}</div>
+					<div class="item-price">${attributes.description}</div>
+					<br/>
+					<a class="contact"><img src="../presentation-data/images/contact.png" width="100" height="40" alt="Contact"></a>
+				 </script>
+			</div>
+  </body>
+
+  
+</html>
