@@ -25,7 +25,7 @@
  
  5. Install modules here we are going to use ( htmlmin,cssmin,uglify,etc,. )
 	 6. Install the req modules via `npm install`. 
-	 Yuo can see `grunt.loadNpmTasks('grunt-contrib-clean');` are the modules you see in Gruntfile.js
+	 You can see `grunt.loadNpmTasks('grunt-contrib-clean');` are the modules you see in Gruntfile.js
 	 2. And finally run the `npm install grunt-contrib-*` 
 	 Note: The * describe the modules you need.
  
