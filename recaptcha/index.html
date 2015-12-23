@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">    
+    <meta charset="UTF-8">
+    <title>Save Check</title>
+    <script src="js/jquery.min.js"></script>    
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+</head>
+<body>
+    <div id='html_element'></div>
+<script>
+	var onloadCallback = function() {
+    grecaptcha.render('html_element', {
+      'sitekey' : '6Lc5hfgSAAAAAMKuzfsGr8OM8UQw35e8AEmp7XU0',
+      'callback' : function(response) {
+    		alert(response);
+		}
+    });    
+  };
+</script>
+</body>
+</html>
