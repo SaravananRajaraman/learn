@@ -47,6 +47,10 @@
 --
 		var z = [ ...x, ...y, 6 ];
 
+
+----------
+
+
 ### Exercise
 
 	function foo(x,y,z,...args){
@@ -61,5 +65,5 @@
 	
 	console.log(bar().join('') === "224567");
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjc4NzcxOV19
+eyJoaXN0b3J5IjpbLTE0NzA1MDEyOTVdfQ==
 -->
