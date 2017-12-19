@@ -34,9 +34,17 @@ for...of
 	[ ...str ] //[ "h", "e", "l", "l", "o" ]
 	
 ---
-### Creating a Custom Iterator
+### Generators
+	
+	function *gen() {
+		console.log('Hello');
+		yield 9;
+		console.log('World');
+		return 10;
+	}
+	
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg4ODYyNTddfQ==
+eyJoaXN0b3J5IjpbMjA5NDcwNjUzNl19
 -->
