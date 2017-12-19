@@ -13,6 +13,8 @@
 
 ### Iterators
 
+Its an obj that has
+
 Symbol.iterators
 	
 	var arr = [1,2,3];
@@ -28,7 +30,7 @@ for...of
 		console.log(v) 
 	};
 
-	var str = "hello"; //String is 
+	var str = "hello"; //String is iterable 
 	[ ...str ] //[ "h", "e", "l", "l", "o" ]
 	
 ---
@@ -36,5 +38,5 @@ for...of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTA0ODk0NV19
+eyJoaXN0b3J5IjpbLTgxODE5NDM4Ml19
 -->
