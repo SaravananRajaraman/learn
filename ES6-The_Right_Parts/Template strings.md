@@ -3,8 +3,8 @@
 	
 	var obj = {
 		a,
-		b(){} // b: function(){}
+		b(){} // b: function(){} //It will not use on b: function b(){ b()}
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNDg0Mjk5XX0=
+eyJoaXN0b3J5IjpbNzc2NTE3NjY3XX0=
 -->
