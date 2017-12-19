@@ -3,8 +3,13 @@
 	function bar(){
 		return 2;
 	}
+	function bar(x){
+		return x;
+	}
 	
-	bar = ()
+	
+	bar = () => 2;
+	bar = (x) => x;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MjI4MTgwLDEyMTU5ODM4NTJdfQ==
+eyJoaXN0b3J5IjpbMzg3NjI3Nzg2LDEyMTU5ODM4NTJdfQ==
 -->
