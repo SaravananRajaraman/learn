@@ -62,7 +62,7 @@ for...of
 			yield Math.random()
 		}
 	}
-	uniqID().next(); //	
+	uniqID().next(); //{value: 0.3064620315633175, done: false}	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM5NDkxNzldfQ==
+eyJoaXN0b3J5IjpbMjczMzMzMzQyXX0=
 -->
