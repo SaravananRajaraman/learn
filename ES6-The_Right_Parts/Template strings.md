@@ -19,6 +19,8 @@
 		*[c+"fun"](){} //concise computed generators 
 	}
 	
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzk3MjFdfQ==
+eyJoaXN0b3J5IjpbNTk4NjIxNTk4XX0=
 -->
