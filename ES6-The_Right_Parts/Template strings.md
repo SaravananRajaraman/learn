@@ -21,11 +21,11 @@
 	
 
 ###
-	
+
+		
 	var name = "John";
 	var id = "25";
-
 	var welcome = `Hello ${name} , your id was ${id} `;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxOTk2NjE0XX0=
+eyJoaXN0b3J5IjpbMTk1ODgwNzc3NF19
 -->
