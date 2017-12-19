@@ -50,8 +50,10 @@ for...of
 	for (var v of main()){
 		console.log(v) 
 	}
-	 
-	//
+	// ===> Basically the generators yield out main values
+	// Hello
+	// 9
+	// World
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDYyMTU3Ml19
+eyJoaXN0b3J5IjpbMTgzNDg1NDc1MV19
 -->
