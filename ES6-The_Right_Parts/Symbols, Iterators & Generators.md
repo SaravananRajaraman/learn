@@ -56,8 +56,13 @@ for...of
 	// World
 
 --
-	
-	
+
+	function *uniqID(){
+		while(true){	
+			yield Math.random()
+		}
+	}
+	uniqID().next(); //	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5ODMxMV19
+eyJoaXN0b3J5IjpbLTE3MDM5NDkxNzldfQ==
 -->
