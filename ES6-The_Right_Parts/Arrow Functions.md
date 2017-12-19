@@ -10,6 +10,20 @@
 	
 	bar = () => 2;
 	bar = (x) => x;
+
+#### Variation 
+
+	() => 3;
+	
+	x => 3;
+
+	(x,y) => 3;
+
+	x => { try{ x } catch(e){ log("Error") } }
+
+	x => { return 3;}
+
+	x => ({ y:x })
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NjI3Nzg2LDEyMTU5ODM4NTJdfQ==
+eyJoaXN0b3J5IjpbMTMwMjI3ODQyMywxMjE1OTgzODUyXX0=
 -->
