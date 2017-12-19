@@ -35,10 +35,10 @@ for...of
 	
 ---
 ### Generators
-	
+		
 	function *gen() {
 		console.log('Hello');
-		yield 9;
+		yield 9; 
 		console.log('World');
 		return 10;
 	}
@@ -48,9 +48,10 @@ for...of
 	it.next() // {value: 10, done: true}
 	
 	for (var v of main()){
-		console.log(v)
+		console.log(v) 
 	}
- 
+	 
+	//
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzIyMTQ4MF19
+eyJoaXN0b3J5IjpbMTQ4NDYyMTU3Ml19
 -->
