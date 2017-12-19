@@ -28,7 +28,10 @@ for...of
 		console.log(v) 
 	};
 
+	var str = "hello";
+	[ ...str ] //[ "h", "e", "l", "l", "o" ]
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE1OTE5MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwODEwMzU5MTNdfQ==
 -->
