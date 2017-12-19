@@ -44,7 +44,10 @@ for...of
 	}
 	var it = gen();
 
+	it.next() // {value: 9, done: false}
+	it.next() // {value: 10, done: true}
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDg1OTg3XX0=
+eyJoaXN0b3J5IjpbLTIwNzg0NDU3NjBdfQ==
 -->
