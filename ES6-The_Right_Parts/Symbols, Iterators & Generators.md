@@ -42,9 +42,9 @@ for...of
 		console.log('World');
 		return 10;
 	}
-	
+	var it = gen();
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDcwNjUzNl19
+eyJoaXN0b3J5IjpbLTMzMDg1OTg3XX0=
 -->
