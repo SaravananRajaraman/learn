@@ -22,9 +22,13 @@ Symbol.iterators
 	it.next(); // { value: 3, done: false }
 	it.next(); // { value: undefined, done: true }
 
-		
+for...of
+
+	for ( var v of arr ){ 
+		console.log(v) 
+	};
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjI4NDA2OF19
+eyJoaXN0b3J5IjpbLTE4NTE1OTE5MTJdfQ==
 -->
