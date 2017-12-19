@@ -10,6 +10,19 @@
 			//...
 		}
 	}
+	
+	function foo(x,y){
+		if(x>y){
+			let tmp = x;
+			x = y;
+			return tmp;
+		}
+		//tmp 
+		for(let i=0; i<x; i++){
+			//...
+		}
+		//i
+	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODk2MTAzXX0=
+eyJoaXN0b3J5IjpbMTQzMzIzNjMwMF19
 -->
