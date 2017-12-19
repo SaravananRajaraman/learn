@@ -13,7 +13,7 @@
 
 ### Iterators
 
-Its an obj that has
+Its an obj that has an .next() on it.
 
 Symbol.iterators
 	
@@ -38,5 +38,5 @@ for...of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODE5NDM4Ml19
+eyJoaXN0b3J5IjpbNDI0OTA0NTE3XX0=
 -->
