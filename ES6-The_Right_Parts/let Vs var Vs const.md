@@ -32,9 +32,10 @@
 	
 	//if you want to immuatable use Object.freeze()  
 	
-	
+	const z = [1,2,3,................]
+	//	here you can
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzU1MzkxOF19
+eyJoaXN0b3J5IjpbODI1ODA3MTM5XX0=
 -->
