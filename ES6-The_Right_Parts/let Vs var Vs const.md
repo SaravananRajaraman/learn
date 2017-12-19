@@ -24,7 +24,8 @@
 		//i
 	}
 	
-	//const : The value can't be 
+	//const : A const is varable can't be reassigned 
+	
 	function foo(x,y){
 		if(x>y){
 			{
@@ -41,5 +42,5 @@
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA0NzM3MzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzQwOTUwNjNdfQ==
 -->
