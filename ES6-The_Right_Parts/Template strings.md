@@ -13,10 +13,10 @@
 	var obj = {
 		a,
 		b(){},
-		[c]: 42 //computed props
+		[c]: 42, //computed props
 		[c+"fun"](){} //computed methods 
 	}
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUxMzQ4NjVdfQ==
+eyJoaXN0b3J5IjpbLTMxNjc2Mjk3M119
 -->
