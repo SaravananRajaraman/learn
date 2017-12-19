@@ -69,7 +69,9 @@ for...of
 	
 	Number.prototype[Symbol.iterator] = function*(){
 		for(var i=0; i<=this; i++){
+		
+		}
 	};
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NTc3MjA3XX0=
+eyJoaXN0b3J5IjpbLTIwNDg5MTgzODBdfQ==
 -->
