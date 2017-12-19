@@ -1,4 +1,4 @@
-### Concise-properties-and-methods
+### Concise properties and methods
 	var a;
 	
 	var c = "hello";
@@ -34,5 +34,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDY2MTc5XX0=
+eyJoaXN0b3J5IjpbLTExMTc1OTIwXX0=
 -->
