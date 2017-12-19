@@ -9,6 +9,17 @@
 	obj// {id: 24, Symbol(hello world): "Testing man"} | this will contain only the id, Some kind of hidden property
 
 
+----------
+
+### Iterators
+
+Symbol.iterators
+	var arr = [1,2,3];
+	
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzA5MzUxNF19
+eyJoaXN0b3J5IjpbOTE2NDA1NzddfQ==
 -->
