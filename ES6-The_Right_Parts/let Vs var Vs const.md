@@ -28,10 +28,12 @@
 	
 	const x = 3;
 	const y = [1,2,3];
-	y[0] = 1 // since its an muatable  
+	y[0] = 1 // since its an muatable
+	
+	//if you want to immuatable use Object.freeze()  
 	
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTkxNjQ2OF19
+eyJoaXN0b3J5IjpbMTE4MzMxNDc5Ml19
 -->
