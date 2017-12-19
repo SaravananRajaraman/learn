@@ -55,6 +55,11 @@
 	});
 
 ### Promises & this
+
+	p.then( data => data.title)
+	p.then(function (data) {
+	  return data.title;
+	});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MDk3OTAsMTIxNTk4Mzg1Ml19
+eyJoaXN0b3J5IjpbLTE3MzEwNTcyNjYsMTIxNTk4Mzg1Ml19
 -->
