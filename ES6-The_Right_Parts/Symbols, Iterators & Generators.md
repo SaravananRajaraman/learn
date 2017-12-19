@@ -46,8 +46,11 @@ for...of
 
 	it.next() // {value: 9, done: false}
 	it.next() // {value: 10, done: true}
-
+	
+	for (var v of main()){
+		console.log(v)
+	}
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg0NDU3NjBdfQ==
+eyJoaXN0b3J5IjpbLTU1NzIyMTQ4MF19
 -->
