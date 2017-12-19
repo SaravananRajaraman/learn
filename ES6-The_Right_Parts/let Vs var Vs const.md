@@ -1,4 +1,4 @@
-### Let vs. Var
+### Let vs. Var vs. Const
 
 	function foo(x,y){
 		if(x>y){
@@ -23,6 +23,23 @@
 		}
 		//i
 	}
+	
+	//const : The value can't be 
+	function foo(x,y){
+		if(x>y){
+			{
+			
+			}
+		}
+		//tmp 
+		for(let i=0; i<x; i++){
+			//...
+		}
+		//i
+	}
+	
+	
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzIzNjMwMF19
+eyJoaXN0b3J5IjpbLTE2ODA0NzM3MzldfQ==
 -->
