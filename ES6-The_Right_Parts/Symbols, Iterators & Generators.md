@@ -54,6 +54,10 @@ for...of
 	// Hello
 	// 9
 	// World
+
+--
+	functi
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDg1NDc1MV19
+eyJoaXN0b3J5IjpbLTE5NjA0NzEzNzhdfQ==
 -->
