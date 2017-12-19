@@ -56,8 +56,8 @@ for...of
 	// World
 
 --
-	functi
+	
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0NzEzNzhdfQ==
+eyJoaXN0b3J5IjpbOTY5ODMxMV19
 -->
