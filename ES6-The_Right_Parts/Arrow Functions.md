@@ -61,8 +61,12 @@
 	  return data.title;
 	});
 
+--
+
+	var
+	
 
 Do you need arrow function: https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjE2ODg1NCwxMjE1OTgzODUyXX0=
+eyJoaXN0b3J5IjpbODg1MjgwMywxMjE1OTgzODUyXX0=
 -->
