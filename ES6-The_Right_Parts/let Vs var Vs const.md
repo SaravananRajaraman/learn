@@ -26,21 +26,12 @@
 	
 	//const : A const is varable can't be reassigned 
 	
-	function foo(x,y){
-		if(x>y){
-			{
-			
-			}
-		}
-		//tmp 
-		for(let i=0; i<x; i++){
-			//...
-		}
-		//i
-	}
+	const x = 3;
+	const y = [1,2,3];
+	y[0] = 1 // sinc  
 	
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQwOTUwNjNdfQ==
+eyJoaXN0b3J5IjpbMjQ4ODYyMDc5XX0=
 -->
