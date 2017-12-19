@@ -15,11 +15,11 @@
 
 Symbol.iterators
 	var arr = [1,2,3];
-	var x = arr[Symbol.i]
+	var x = arr[Symbol.iterators]
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk1NjI5N119
+eyJoaXN0b3J5IjpbLTE4OTM3NDg5NzNdfQ==
 -->
