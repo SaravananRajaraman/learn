@@ -15,9 +15,10 @@
 		b(){},
 		[c]: 42, //computed props
 		[c+"fun"](){}, //computed methods 
-		*foo(){} //concise genrator 
+		*foo(){} //concise generators
+		*[c+"fun"](){} //concise computed generators 
 	}
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM2NjM4NjRdfQ==
+eyJoaXN0b3J5IjpbLTUyNzk3MjFdfQ==
 -->
