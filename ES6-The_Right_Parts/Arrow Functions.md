@@ -1,7 +1,8 @@
+### Arrow function 
 
-
-
-> Written with [StackEdit](https://stackedit.io/).()=>
+	function(){
+		return "Hello world";
+	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxOTYzMjEwLDEyMTU5ODM4NTJdfQ==
+eyJoaXN0b3J5IjpbNDMzMDgwNTk2LDEyMTU5ODM4NTJdfQ==
 -->
