@@ -31,7 +31,10 @@ for...of
 	var str = "hello";
 	[ ...str ] //[ "h", "e", "l", "l", "o" ]
 	
+---
+### Creating a Custom Iterator
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEwMzU5MTNdfQ==
+eyJoaXN0b3J5IjpbLTQ1NzA5NzU2Ml19
 -->
