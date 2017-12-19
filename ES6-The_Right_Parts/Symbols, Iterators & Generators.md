@@ -16,11 +16,11 @@
 Symbol.iterators
 	var arr = [1,2,3];
 	var x = arr[Symbol.iterators]();
-	it.next(); // { value: 1, done: false}
+	it.next(); // { value: 1, done: false }
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NjQ2Mzg4XX0=
+eyJoaXN0b3J5IjpbMTQyMzMyMzk5MF19
 -->
