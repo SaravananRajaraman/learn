@@ -6,8 +6,10 @@
 			x = y;
 			return tmp;
 		}
-		for(var i=0; i<x; )
+		for(var i=0; i<x; i++){
+			
+		}
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NzUyOTEwXX0=
+eyJoaXN0b3J5IjpbMTYwMTI4NDExMV19
 -->
