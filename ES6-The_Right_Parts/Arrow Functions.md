@@ -60,6 +60,9 @@
 	p.then(function (data) {
 	  return data.title;
 	});
+
+
+Do you need arrow function: https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzEwNTcyNjYsMTIxNTk4Mzg1Ml19
+eyJoaXN0b3J5IjpbLTYxNjE2ODg1NCwxMjE1OTgzODUyXX0=
 -->
