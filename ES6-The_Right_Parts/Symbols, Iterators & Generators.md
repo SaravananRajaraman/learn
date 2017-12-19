@@ -65,7 +65,11 @@ for...of
 	uniqID().next(); //{value: 0.3064620315633175, done: false}	
 
 ---
-Ra
+### Ranges
+	
+	Number.prototype[Symbol.iterator] = function*(){
+		for(var i=0; i<=this; i++){
+	};
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjU1OTUzMl19
+eyJoaXN0b3J5IjpbMzg3NTc3MjA3XX0=
 -->
