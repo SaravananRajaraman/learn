@@ -5,7 +5,10 @@
 	var obj = {
 		id :24
 	};
-	
+	obj[x] = "Testing man";
+	obj// {id: 24, Symbol(hello world): "Testing man"} | this will contain only the id, Some kind of hidden property
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE3MzM5MTJdfQ==
+eyJoaXN0b3J5IjpbLTMwNzA5MzUxNF19
 -->
