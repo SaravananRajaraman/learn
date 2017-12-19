@@ -33,9 +33,12 @@
 	//if you want to immuatable use Object.freeze()  
 	
 	const z = [1,2,3,................]
-	//	here you can't do th
+	// z = null // not possible 
+	//	here you can't do the garbage collect 
+	// since z is an const
+	
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYwNzc3MTVdfQ==
+eyJoaXN0b3J5IjpbLTM5Mjg3MTgwMV19
 -->
