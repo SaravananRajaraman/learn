@@ -14,9 +14,10 @@
 		a,
 		b(){},
 		[c]: 42, //computed props
-		[c+"fun"](){} //computed methods 
+		[c+"fun"](){}, //computed methods 
+		*foo(){} //concise genrator 
 	}
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjc2Mjk3M119
+eyJoaXN0b3J5IjpbLTIwMjM2NjM4NjRdfQ==
 -->
