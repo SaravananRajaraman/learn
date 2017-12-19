@@ -72,6 +72,8 @@ for...of
 			yield i;
 		}
 	};
+	
+	[...4] // [0,1,2,3,4]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDA1MDQ0OV19
+eyJoaXN0b3J5IjpbMzM3NzYwNjldfQ==
 -->
