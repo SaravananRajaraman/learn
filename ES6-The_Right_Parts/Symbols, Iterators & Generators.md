@@ -14,8 +14,9 @@
 ### Iterators
 
 Symbol.iterators
+	
 	var arr = [1,2,3];
-	var x = arr[Symbol.iterators]();
+	var it = arr[Symbol.iterator]();
 	it.next(); // { value: 1, done: false }
 	it.next(); // { value: 2, done: false }
 	it.next(); // { value: 3, done: false }
@@ -25,5 +26,5 @@ Symbol.iterators
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MTI3ODEyXX0=
+eyJoaXN0b3J5IjpbNDc0NjIwMzAwXX0=
 -->
