@@ -49,14 +49,14 @@
 ---
 ### Dumping Variables
 
- var x = 1, y =2;
+	 var x = 1, y =2;
 
-[ x, y ] = [ y, x ];
+	[ x, y ] = [ y, x ];
 
-var a = [ 1, 2, 3 ];
+	var a = [ 1, 2, 3 ];
 
-[ x, y, ...a ] = [ 0, ...a, 4 ];
-[ ,  , ...a ] = [ 0, ...a, 4 ];
+	[ x, y, ...a ] = [ 0, ...a, 4 ];
+	[ ,  , ...a ] = [ 0, ...a, 4 ];
 
 ### Nested Array Destructuring
    	function foo(){
@@ -233,5 +233,5 @@ var a = [ 1, 2, 3 ];
 		};
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTYyMTgwXX0=
+eyJoaXN0b3J5IjpbLTE1NDQzODAyMjBdfQ==
 -->
