@@ -28,7 +28,7 @@ for...of
 		console.log(v) 
 	};
 
-	var str = "hello";
+	var str = "hello"; //String is 
 	[ ...str ] //[ "h", "e", "l", "l", "o" ]
 	
 ---
@@ -36,5 +36,5 @@ for...of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzA5NzU2Ml19
+eyJoaXN0b3J5IjpbMTE5NTA0ODk0NV19
 -->
