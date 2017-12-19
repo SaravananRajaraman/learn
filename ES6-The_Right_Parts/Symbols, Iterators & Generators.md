@@ -36,7 +36,7 @@ for...of
 ---
 ### Creating a Custom Iterator
 
-
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0OTA0NTE3XX0=
+eyJoaXN0b3J5IjpbLTE1Nzg4ODYyNTddfQ==
 -->
