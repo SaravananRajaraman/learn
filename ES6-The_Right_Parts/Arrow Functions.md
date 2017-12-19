@@ -24,6 +24,37 @@
 	x => { return 3;}
 
 	x => ({ y:x })
+--
+	
+	(function () {
+	  return 3;
+	});
+
+	(function (x) {
+	  return 3;
+	});
+
+	(function (x, y) {
+	  return 3;
+	});
+
+	(function (x) {
+	  try {
+	    x;
+	  } catch (e) {
+	    log("Error");
+	  }
+	});
+
+	(function (x) {
+	  return 3;
+	});
+
+	(function (x) {
+	  return { y: x };
+	});
+
+### Pro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjI3ODQyMywxMjE1OTgzODUyXX0=
+eyJoaXN0b3J5IjpbLTE5ODcwNzAzMTksMTIxNTk4Mzg1Ml19
 -->
