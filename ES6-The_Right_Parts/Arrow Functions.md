@@ -1,10 +1,10 @@
 ### Arrow function 
 
-	function(){
+	function bar(){
 		return 2;
 	}
 	
-	()
+	bar = ()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU1MTE4NTUsMTIxNTk4Mzg1Ml19
+eyJoaXN0b3J5IjpbNjQ5MjI4MTgwLDEyMTU5ODM4NTJdfQ==
 -->
