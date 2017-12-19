@@ -22,9 +22,9 @@ Symbol.iterators
 	it.next(); // { value: 3, done: false }
 	it.next(); // { value: undefined, done: true }
 
-
+		
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NjIwMzAwXX0=
+eyJoaXN0b3J5IjpbLTMxNjI4NDA2OF19
 -->
