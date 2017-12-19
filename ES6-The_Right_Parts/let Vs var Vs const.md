@@ -28,10 +28,10 @@
 	
 	const x = 3;
 	const y = [1,2,3];
-	y[0] = 1 // sinc  
+	y[0] = 1 // since its an muatable  
 	
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4ODYyMDc5XX0=
+eyJoaXN0b3J5IjpbMjA1MTkxNjQ2OF19
 -->
