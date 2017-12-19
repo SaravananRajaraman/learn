@@ -54,7 +54,7 @@
 	  return { y: x };
 	});
 
-### Pro
+### Promises & this
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcwNzAzMTksMTIxNTk4Mzg1Ml19
+eyJoaXN0b3J5IjpbNDI5MDk3OTAsMTIxNTk4Mzg1Ml19
 -->
