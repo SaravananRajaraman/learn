@@ -1,4 +1,4 @@
-### concise-properties-and-methods
+### Concise-properties-and-methods
 	var a;
 	
 	var c = "hello";
@@ -20,12 +20,19 @@
 	}
 	
 
-###
+### Template strings
 
-		
+	var name = "John";
+	var id = "25";
+	var welcome = "Hello " + name + " , your id was " + id + " ";	
+	
 	var name = "John";
 	var id = "25";
 	var welcome = `Hello ${name} , your id was ${id} `;
+	
+	// you can use \ to escase the new lines 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODgwNzc3NF19
+eyJoaXN0b3J5IjpbLTUzNDY2MTc5XX0=
 -->
