@@ -41,7 +41,12 @@ Immediately invocable function expressions
 	...
 	}()); //Good prat
 
+### Scope
+
+Block scope v function scope
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTA1ODIyM119
+eyJoaXN0b3J5IjpbLTM2MTA5MDkxXX0=
 -->
