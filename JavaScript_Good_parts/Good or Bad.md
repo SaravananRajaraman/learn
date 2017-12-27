@@ -40,6 +40,8 @@ Immediately invocable function expressions
 	(function(){
 	...
 	}()); //Good prat
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzA3NzEwOV19
+eyJoaXN0b3J5IjpbLTc3OTA1ODIyM119
 -->
