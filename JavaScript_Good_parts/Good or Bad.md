@@ -27,6 +27,15 @@ Wrong:
 	function foo (b) {...}
 	function(x) {...}
 
+Immediately invocable function expressions
+
+	function(){
+	...
+	} (); //Error
+	
+	function(){
+	...
+	})
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTk1Mjk1NF19
+eyJoaXN0b3J5IjpbODE4NTc5ODM5XX0=
 -->
