@@ -33,9 +33,9 @@ Immediately invocable function expressions
 	...
 	} (); //Error
 	
-	function(){
+	(function(){
 	...
-	})
+	})();
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NTc5ODM5XX0=
+eyJoaXN0b3J5IjpbNTYwOTczMzA5XX0=
 -->
