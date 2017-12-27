@@ -48,9 +48,10 @@ Immediately invocable function expressions
 -	Declare all var at the top of the function 
 -	Declare all function before you call them
 
-	
+	Global variables.
+	Global var
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDY3NTE1MV19
+eyJoaXN0b3J5IjpbNDA5MzU3Mzk3XX0=
 -->
