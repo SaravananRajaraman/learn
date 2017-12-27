@@ -1,15 +1,15 @@
 ### Left or Right ?
 	
-	//Si
+	//Silent Error
 	return 
 	{
 		ok: false
 	};
 
-	//Correct
+	//Correct 
 	return{
 		ok: false
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY4ODM1OF19
+eyJoaXN0b3J5IjpbLTgxMDYwMzQ3OV19
 -->
