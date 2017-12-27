@@ -43,7 +43,7 @@ Immediately invocable function expressions
 
 ### Scope
 
-####Block scope v function scope
+#### Block scope v function scope
 
 -	Declare all var at the top of the function 
 -	Declare all function before you call them
@@ -58,5 +58,5 @@ Immediately invocable function expressions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MDEwMzk3XX0=
+eyJoaXN0b3J5IjpbMTAxMDkzN119
 -->
