@@ -52,9 +52,9 @@ Immediately invocable function expressions
 	Global var are evil.
 	Avoid global var.
 	When using global var, be explicit .
-	 UPPER_CA
+	 UPPER_CASE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyODkwNDQ2XX0=
+eyJoaXN0b3J5IjpbMjU0MzE1NzA4XX0=
 -->
