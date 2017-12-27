@@ -13,11 +13,14 @@
 
 A good style can help produce better programs.
 
+### Composition 
+
 Use elements of good composition where applicable.
 
 for eg: use a space after a comma, not before
 
 Wrong:
+	
 	foo (bar) ;
 	return(a+b) ;
 	if(a=== 0) {...}
@@ -25,5 +28,5 @@ Wrong:
 	function(x) {...}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTQzMjg3MV19
+eyJoaXN0b3J5IjpbMjA4MTk1Mjk1NF19
 -->
