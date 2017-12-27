@@ -50,11 +50,11 @@ Immediately invocable function expressions
 
 ####	Global variables.
 - Global var are evil.
-	Avoid global var.
+- Avoid global var.
 	When using global var, be explicit .
 	 UPPER_CASE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY1ODc0MjNdfQ==
+eyJoaXN0b3J5IjpbLTExNTE2ODYyMDJdfQ==
 -->
