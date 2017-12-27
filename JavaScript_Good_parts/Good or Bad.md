@@ -20,7 +20,10 @@ for eg: use a space after a comma, not before
 Wrong:
 	foo (bar) ;
 	return(a+b) ;
-	if(a=== 0) {}
+	if(a=== 0) {...}
+	function foo (b) {...}
+	function(x) {...}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Njk1MjU4OV19
+eyJoaXN0b3J5IjpbMTQwOTQzMjg3MV19
 -->
