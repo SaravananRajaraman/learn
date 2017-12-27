@@ -13,6 +13,8 @@
 
 A good style can help produce better programs.
 
+Use elements of good composition 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjMzOTU3Nl19
+eyJoaXN0b3J5IjpbLTE1ODQ5MDM3MzJdfQ==
 -->
