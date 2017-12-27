@@ -49,9 +49,11 @@ Immediately invocable function expressions
 -	Declare all function before you call them
 
 	Global variables.
-	Global var
+	Global var are evil.
+	Avoid global var.
+	When using global var, be
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MzU3Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE2NzcyNTgwNTFdfQ==
 -->
