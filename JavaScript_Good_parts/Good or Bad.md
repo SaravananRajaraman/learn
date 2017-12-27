@@ -1,6 +1,6 @@
 ### Left or Right ?
 	
-	//Not correct
+	//Si
 	return 
 	{
 		ok: false
@@ -11,5 +11,5 @@
 		ok: false
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzI4MDU3XX0=
+eyJoaXN0b3J5IjpbLTkwMjY4ODM1OF19
 -->
