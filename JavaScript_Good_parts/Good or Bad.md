@@ -11,7 +11,8 @@
 		ok: false
 	}
 
-A g
+A good style can help produce better programs.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MDA3MjcxXX0=
+eyJoaXN0b3J5IjpbLTU4NjMzOTU3Nl19
 -->
