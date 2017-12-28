@@ -14,7 +14,7 @@
 A good style can help produce better programs.
 
 ### Composition 
-
+ 
 Use elements of good composition where applicable.
 
 for eg: use a space after a comma, not before
@@ -58,5 +58,5 @@ Immediately invocable function expressions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDkzN119
+eyJoaXN0b3J5IjpbMjEzMTU1NjNdfQ==
 -->
