@@ -6,7 +6,7 @@
 		ok: false
 	};
 
-	//Correct 
+	//Correct rr
 	return{
 		ok: false
 	}
@@ -58,5 +58,5 @@ Immediately invocable function expressions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTI3ODIwNjgwNSwyMTMxNTU2M119
 -->
