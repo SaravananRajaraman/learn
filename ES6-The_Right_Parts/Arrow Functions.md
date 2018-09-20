@@ -105,5 +105,6 @@
 
 Do you need arrow function: https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzNzIwNDU5LDEyMTU5ODM4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTUwMTIzNDksOTMzNzIwNDU5LDEyMT
+U5ODM4NTJdfQ==
 -->
