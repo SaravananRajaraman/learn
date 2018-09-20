@@ -75,5 +75,5 @@ for...of
 	
 	[...4] // [0,1,2,3,4]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NzYwNjldfQ==
+eyJoaXN0b3J5IjpbLTk0MzUxMDk5NiwzMzc3NjA2OV19
 -->
