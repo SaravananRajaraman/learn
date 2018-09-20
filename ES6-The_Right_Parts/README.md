@@ -12,5 +12,5 @@ Few of the ES6 must know stuff right here, Checkout this below links
 
 - [Symbols, Iterators & Generators](https://github.com/SaravananRajaraman/learn/blob/master/ES6-The_Right_Parts/Symbols%2C%20Iterators%20%26%20Generators.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODg4OTIyMl19
+eyJoaXN0b3J5IjpbLTE2MjE0ODQwMzMsMTM3ODg4OTIyMl19
 -->
