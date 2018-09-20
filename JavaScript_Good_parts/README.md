@@ -6,5 +6,5 @@ It's an quick notes of javascript good parts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjYzMTgxNV19
+eyJoaXN0b3J5IjpbNDkxNDkxMzM1LC0yODI2MzE4MTVdfQ==
 -->
