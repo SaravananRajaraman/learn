@@ -65,5 +65,5 @@
 	
 	console.log(bar().join('') === "224567");
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA1MDEyOTVdfQ==
+eyJoaXN0b3J5IjpbMTU3NDQyNjMyMSwtMTQ3MDUwMTI5NV19
 -->
